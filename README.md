@@ -14,3 +14,4 @@ Productivity apps and other tweaks I use to set up my Mac
 ## setup
 
 * show dotfiles in finder - (in terminal) `defaults write com.apple.finder AppleShowAllFiles YES`
+* remap caps lock to escape (since the touchbar escape provides no tactile feedback) - System Preferences -> Keyboard -> Modifier Keys https://stackoverflow.com/a/40254864/5163325
