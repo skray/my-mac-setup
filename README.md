@@ -11,6 +11,8 @@ Productivity apps and other tweaks I use to set up my Mac
 
 * [Annotate](https://itunes.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12) - Capture a screenshot, quickly annotate, and then put it wherever you need (clipboard, drag and drop, save to disk, upload)
 
+* [Plug](https://www.plugformac.com/) - Play [hypemachine](https://hypem.com) on the desktop
+
 ## setup
 
 * show dotfiles in finder - (in terminal) `defaults write com.apple.finder AppleShowAllFiles YES`
