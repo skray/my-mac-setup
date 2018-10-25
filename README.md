@@ -13,6 +13,8 @@ Productivity apps and other tweaks I use to set up my Mac
 
 * [Plug](https://www.plugformac.com/) - Play [hypemachine](https://hypem.com) on the desktop
 
+* [YakYak](https://github.com/yakyak/yakyak) - Native google hangouts client
+
 ## setup
 
 * show dotfiles in finder - (in terminal) `defaults write com.apple.finder AppleShowAllFiles YES`
