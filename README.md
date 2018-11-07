@@ -5,6 +5,8 @@ Productivity apps and other tweaks I use to set up my Mac
 
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - live computer stats in menubar (CPU, network, GPU, fans, etc.) plus weather, custom clock and calendar
 
+![iStat Menus screenshot](https://bjango.com/images/mac/istatmenus6/menubars.jpg)
+
 * [Itsycal](https://www.mowglii.com/itsycal/datetime.html) - date/time menu bar icon with a dropdown calendar - if I don't feel like paying for another iStat Menus license
 
 ![ityscal screenshot](https://www.mowglii.com/itsycal/itsycalbanner2.png)
