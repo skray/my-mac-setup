@@ -19,6 +19,14 @@ Productivity apps and other tweaks I use to set up my Mac
 
 * [YakYak](https://github.com/yakyak/yakyak) - Native google hangouts client
 
+## tooling
+
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+* [homebrew](https://brew.sh/)
+
+* [git open](https://github.com/paulirish/git-open)
+
 ## setup
 
 * show dotfiles in finder - (in terminal) `defaults write com.apple.finder AppleShowAllFiles YES`
