@@ -3,6 +3,12 @@ Productivity apps and other tweaks I use to set up my Mac
 
 ## apps
 
+* [Alfred](https://www.alfredapp.com/) - A better Spotlight with custom workflows (go to a specific Slack channel, open a Github repo in the default browser, etc.)
+
+* [Spectacle](https://www.spectacleapp.com/) - Simple, free window resizing and positioning app
+
+* [Contexts](https://contexts.co/) - app switcher that saves me so much mental overhead when jumping between all of my open windows
+
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - live computer stats in menubar (CPU, network, GPU, fans, etc.) plus weather, custom clock and calendar
 
 ![iStat Menus screenshot](https://bjango.com/images/mac/istatmenus6/menubars.jpg)
@@ -10,8 +16,6 @@ Productivity apps and other tweaks I use to set up my Mac
 * [Itsycal](https://www.mowglii.com/itsycal/datetime.html) - date/time menu bar icon with a dropdown calendar - if I don't feel like paying for another iStat Menus license
 
 ![ityscal screenshot](https://www.mowglii.com/itsycal/itsycalbanner2.png)
-
-* [Alfred](https://www.alfredapp.com/) - A better Spotlight with custom workflows (go to a specific Slack channel, open a Github repo in the default browser, etc.)
 
 * [Annotate](https://itunes.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12) - Capture a screenshot, quickly annotate, and then put it wherever you need (clipboard, drag and drop, save to disk, upload)
 
