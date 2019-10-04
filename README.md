@@ -23,6 +23,8 @@ Productivity apps and other tweaks I use to set up my Mac
 
 * [YakYak](https://github.com/yakyak/yakyak) - Native google hangouts client
 
+* [SoundSource](https://rogueamoeba.com/soundsource/) - Control external HDMI devices with keyboard controls (among many other things)
+
 ## tooling
 
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
