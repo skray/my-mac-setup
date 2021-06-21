@@ -14,6 +14,8 @@ Productivity apps and other tweaks I use to set up my Mac
 
 * [Plug](https://www.plugformac.com/) - Play [hypemachine](https://hypem.com) on the desktop
 
+* [Things](https://culturedcode.com/things/) - Todo lists with light planning on top. This is a todo list that I can keep up with - OmniFocus is wayy too much for me.
+
 * [Alfred](https://www.alfredapp.com/) - A better Spotlight with custom workflows (go to a specific Slack channel, open a Github repo in the default browser, etc.)
 
 ### Apps I've Used Before but don't any more
