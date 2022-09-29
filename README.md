@@ -18,6 +18,8 @@ Productivity apps and other tweaks I use to set up my Mac
 
 * [Alfred](https://www.alfredapp.com/) - A better Spotlight with custom workflows (go to a specific Slack channel, open a Github repo in the default browser, etc.)
 
+* [RDM](https://github.com/avibrazil/RDM) - Free menubar utility to change the resolution past what the default display options allow you.
+
 ### Apps I've Used Before but don't any more
 
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - live computer stats in menubar (CPU, network, GPU, fans, etc.) plus weather, custom clock and calendar. This was too much for me, the only thing I found myself using was the calendar, which itsycal does just as well, for free
